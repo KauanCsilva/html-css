@@ -1,0 +1,6 @@
+Tags Aprendidas - FAzer listas
+    li
+    ol
+    ul
+Criar uma estrutura automaticamente
+exemplo - ol>li*4
